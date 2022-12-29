@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ecology</title>
+      <link>https://example.org/tags/ecology/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://example.org/tags/health/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegi</title>
+      <link>https://example.org/tags/vegi/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/vegi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pain</title>
+      <link>https://example.org/tags/pain/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pancakes</title>
+      <link>https://example.org/tags/pancakes/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/pancakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gauffre</title>
+      <link>https://example.org/tags/gauffre/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/gauffre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image gallery</title>
+      <link>https://example.org/tags/image-gallery/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/image-gallery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

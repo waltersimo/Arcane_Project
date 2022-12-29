@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>patisserie on Hugo tranquilpeak theme</title>
+    <link>https://example.org/categories/patisserie/</link>
+    <description>Recent content in patisserie on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/patisserie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PANCAKES</title>
+      <link>https://example.org/2022/12/pancakes/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/pancakes/</guid>
+      <description>&lt;p&gt;On vous propose aujourd&amp;rsquo;hui une recette de pain-polaire à vous couper le souffle. Impatient de la decouvrir ?&lt;/p&gt;
+&lt;p&gt;Mettez votre veste de chef cuisinier et allons y &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gaufres de Pommes de Terre</title>
+      <link>https://example.org/2022/12/gaufres-de-pommes-de-terre/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/gaufres-de-pommes-de-terre/</guid>
+      <description>&lt;p&gt;On vous propose aujourd&amp;rsquo;hui une recette de gauffre à base de pomme de terre à vous couper le souffle. Impatient de la decouvrir ?&lt;/p&gt;
+&lt;p&gt;Mettez votre veste de chef cuisinier et allons y &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

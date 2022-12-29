@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugo tranquilpeak theme</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>food</title>
+      <link>https://example.org/categories/food/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://example.org/categories/health/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>https://example.org/categories/breakfast/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patisserie</title>
+      <link>https://example.org/categories/patisserie/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/patisserie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegi</title>
+      <link>https://example.org/categories/vegi/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/vegi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
