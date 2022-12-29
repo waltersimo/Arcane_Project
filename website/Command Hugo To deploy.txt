@@ -1,0 +1,8 @@
+First be in the directory containing the config.toml file
+then execute the command (hugo need to be pre-installed )
+
+hugo server -b http://localhost -p 29600
+
+this deploys on 
+
+http://localhost:29600
